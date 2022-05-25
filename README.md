@@ -1,5 +1,5 @@
 # w3com
-It is an WEB3 communication tool for WEB3 website as intercom messenger for WEB2. Providing communication tool for WEB3 service provider and WEB3 customer.
+It is a livechat tool for WEB3 website as intercom messenger for WEB2 website. Providing communication tool for WEB3 service provider and WEB3 customer.
 
 ## Highlight features
 
